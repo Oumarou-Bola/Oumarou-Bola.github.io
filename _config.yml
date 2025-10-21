@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title: "Oumarou M. Bola – PhD Candidate in Aircraft Trajectory Optimization"
+title: "Oumarou M. Bola – PhD Candidate"
 title_separator          : "-"
 name                     : &name "Oumarou"
 description: "Ph.D. researcher in aircraft trajectory optimization and sustainable aviation for climate impact mitigation."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository: "oumarou-bola/oumarou-bola.github.io"
 author:
   # Biographic information
   avatar           : "lim-pi-sq.jpeg"
-  name             : "Oumarou Bola"
+  name             : "     Oumarou Bola   "
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician-Engineer, Lifelong learner"
+  bio              : "Mathematician-Engineer, Lifelong Learner"
   location         : "Madrid, Spain"
   employer         : "Universidad Carlos III of Madrid"
   uri              : # URL
