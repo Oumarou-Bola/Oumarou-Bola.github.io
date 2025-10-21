@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oumarou-bola.github.io/sitemap.xml
