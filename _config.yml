@@ -23,7 +23,7 @@ repository: "oumarou-bola/oumarou-bola.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lim-pi-sq.jpeg"
   name             : "Oumarou Bola"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
