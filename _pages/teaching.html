@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6KF9GKV0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TR6KF9GKV0');
+</script>
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
