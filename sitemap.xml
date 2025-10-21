@@ -1,0 +1,32 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url><loc>{{ site.url }}/</loc></url>
+
+  <!-- Regular pages -->
+  {% for page in site.pages %}
+    {% if page.url and page.sitemap != false and page.layout != nil %}
+      <url><loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc></url>
+    {% endif %}
+  {% endfor %}
+
+  <!-- Blog posts -->
+  {% for post in site.posts %}
+    <url><loc>{{ site.url }}{{ post.url }}</loc></url>
+  {% endfor %}
+
+  <!-- Other collections -->
+  {% for coll in site.collections %}
+    {% unless coll.output == false or coll.label == "posts" %}
+      {% for doc in coll.docs %}
+        {% if doc.url %}
+          <url><loc>{{ site.url }}{{ doc.url }}</loc></url>
+        {% endif %}
+      {% endfor %}
+    {% endunless %}
+  {% endfor %}
+</urlset>
