@@ -25,7 +25,7 @@ redirect_from:
      class="profile-photo"
      style="width: 200px; float: right; border-radius: 10px; margin: 0 0 15px 20px;">
      
-I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **optimal aircraft trajectory planning**, **sustainable aviation fuels (SAF)** and the **climate impact of aviation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe. :contentReference[oaicite:0]{index=0}  
+I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **optimal aircraft trajectory planning**, **sustainable aviation fuels (SAF)** and the **climate impact of aviation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe.  
 
 I have a dual background in **aeronautical engineering** and **mathematics**, and I enjoy working at the intersection of theory, algorithms, and real-world flight operations. I am particularly interested in:
 
@@ -40,24 +40,23 @@ I have a dual background in **aeronautical engineering** and **mathematics**, an
 ## 🎓 Academic Background
 
 - **PhD Candidate, Aerospace Engineering** – Universidad Carlos III de Madrid, Spain  
-  *Research on SAF-powered aircraft trajectories, climate impact assessment, and fast optimisation frameworks for free-routing and structured airspace.* :contentReference[oaicite:1]{index=1}  
+  *Research on SAF-powered aircraft trajectories, climate impact assessment, and fast optimisation frameworks for free-routing and structured airspace.*  
 
 - **MSc in Mathematics (Distinction)** – AIMS South Africa / University of Cape Town, South Africa  
-  *Abstract control theory, statistics, linear & nonlinear optimisation, network theory, and fluid dynamics.* :contentReference[oaicite:2]{index=2}  
+  *Abstract control theory, statistics, linear & nonlinear optimisation, network theory, and fluid dynamics.* 
 
 - **Master of Engineering in Aeronautics** – ESAT University, Tunisia  
-  *Flight mechanics, propulsion, control engineering, avionic systems, CFD, and UAV design.* :contentReference[oaicite:3]{index=3}  
-
+  *Flight mechanics, propulsion, control engineering, avionic systems, CFD, and UAV design.*
+  
 - **Erasmus+ Research Stay** – Universidad Politécnica de Madrid, Spain  
-  *Application of artificial intelligence to aircraft flight control systems (grade: 10/10).* :contentReference[oaicite:4]{index=4}  
+  *Application of artificial intelligence to aircraft flight control systems. 
 
-Throughout these experiences, I have worked in **Spain, South Africa, Tunisia, and Niger**, which has shaped both my technical profile and my perspective on aviation as a global, interconnected system.
 
 ---
 
 ## 🔬 Research & Projects
 
-Some representative topics and projects I have worked on include: :contentReference[oaicite:5]{index=5}  
+Some representative topics and projects I have worked on include but not limited to: 
 
 - **Sustainable Aviation Fuel in Aircraft Trajectory Optimization**  
   Development of fast optimisation frameworks using Birkhoff interpolants, integration of SAF models into robust trajectory optimisation, and climate modelling using advection–diffusion representations.
@@ -74,20 +73,20 @@ Some representative topics and projects I have worked on include: :contentRefere
 - **Engineering Prototypes and Systems**  
   Design of a radar model using ultrasonic sensing and ESP32, UAV design for firefighting operations, and embedded/IoT implementations.
 
-You can find more details under the **Research**, **Publications**, and **Projects/Portfolio** sections of this site (coming soon as I migrate and polish content).
+<!-- You can find more details under the **Research**, **Publications**, and **Projects/Portfolio** sections of this site (coming soon as I migrate and polish content). -->
 
 ---
 
 ## 🏆 Honours & Scholarships
 
-I have been fortunate to receive several recognitions, including: :contentReference[oaicite:6]{index=6}  
+I have been fortunate to receive several recognitions, including:  
 
 - **Erasmus+ Scholarship** – ETSIAE UPM  
 - **African Institute for Mathematical Sciences Scholarship** – AIMS South Africa  
 - **Multiple Valedictorian / First Class Honours** awards at ESAT University  
 - **National Academic Prizes** in Niger, including the Niger Air Force General Contest (overall best among 850+ contestants) and Ecobank Award for Excellence  
 
-These experiences continuously motivate me to mentor others and contribute back through teaching, outreach, and community initiatives.
+<!-- These experiences continuously motivate me to mentor others and contribute back through teaching, outreach, and community initiatives. -->
 
 ---
 
@@ -100,8 +99,8 @@ Outside of research and engineering, I enjoy:
 - **3D CAD design**, coding side projects, and exploring new tools  
 - Reading, listening to podcasts, and engaging in community-focused initiatives  
 
-I also co-founded and contribute to initiatives such as the **Taymako Foundation** and volunteer activities in education and outreach. :contentReference[oaicite:7]{index=7}  
+I also co-founded **Dogonei SA** and contributed to initiatives such as the **Taymako Foundation** and volunteering activities in education and outreach.  
 
 ---
 
-If you’d like to connect or collaborate on topics related to **sustainable aviation, optimal control, or mathematical modelling**, feel free to reach out via the links in the sidebar.
+If you’d like to connect or collaborate on topics related to **Sustainable aviation, Aircraft Trajectory Optimization, AI applications in Aerospace, or mathematics**, feel free to reach out via the links in the sidebar.
