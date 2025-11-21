@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/bola.jJPG" alt="Oumarou Moussa Bola" style="width: 100%; border-radius: 10px;">
+
 I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **optimal aircraft trajectory planning**, **sustainable aviation fuels (SAF)** and the **climate impact of aviation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe. :contentReference[oaicite:0]{index=0}  
 
 I have a dual background in **aeronautical engineering** and **mathematics**, and I enjoy working at the intersection of theory, algorithms, and real-world flight operations. I am particularly interested in:
