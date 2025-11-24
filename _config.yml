@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "minimal-mistakes-jekyll" # Currently available options are "default", "air"
+
 title: "Oumarou M. Bola – PhD Candidate"
 title_separator          : "-"
 name                     : &name "Oumarou"
