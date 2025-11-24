@@ -1,3 +1,25 @@
+---
+# Only front matter
+---
+
+@import "minimal-mistakes";  // already there in most sites
+
+/* Sidebar avatar custom styling */
+.author__avatar img {
+  border-radius: 50% !important;
+  width: 160px !important;
+  height: 160px !important;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover animation */
+.author__avatar img:hover {
+  transform: scale(1.06);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+}
+
 /* ==========================================================================
    Syntax highlighting
    ========================================================================== */
