@@ -23,9 +23,9 @@ redirect_from:
 <!-- Profile photo -->
 <img src="/images/omb-profile-600-embedded.svg" alt="Oumarou Moussa Bola"
      class="profile-photo"
-     style="width: 200px; float: right; border-radius: 10px; margin: 0 0 15px 20px;">
+     style="width: 600px; float: right; border-radius: 10px; margin: 0 0 15px 20px;">
      
-I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **Aircraft Trajectory Optimization and Sustainable Aviation for Climate Impact Mitigation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe.  
+Hi!, I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **Aircraft Trajectory Optimization and Sustainable Aviation for Climate Impact Mitigation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe.  
 
 I have a dual background in **aeronautical engineering** and **mathematics**, and I enjoy working at the intersection of theory, algorithms, and Applied Mathematics. I am particularly interested in:
 
@@ -41,17 +41,17 @@ I have a dual background in **aeronautical engineering** and **mathematics**, an
 
 ## 🎓 Academic Background
 
-- **PhD Candidate, Aerospace Engineering** – Universidad Carlos III de Madrid, Spain  
+- **PhD Candidate, Aerospace Engineering** – Universidad Carlos III de Madrid, Spain.  
   *Research on Aircraft Trajectory Optimization and Sustainable Aviation for Climate Impact Mitigation*  
 
-- **MSc in Mathematics (Distinction)** – AIMS South Africa / University of Cape Town, South Africa  
+- **MSc in Mathematics (Distinction)** – AIMS South Africa / University of Cape Town.
   *ODE & PDE, Lie Algebra, Statistics, Symetry Analysis of D.Es, Linear & Nonlinear Optimisation, Network Theory, and Fluid Dynamics.* 
 
-- **Master of Engineering in Aeronautics** – ESAT University, Tunisia  
+- **Master of Engineering in Aeronautics** – ESAT University, Tunisia. 
   *Flight mechanics, propulsion, control engineering, avionic systems, CFD, and UAV design.*
   
-- **Erasmus+ MEng Research Project** – Universidad Politécnica de Madrid, Spain  
-  *Application of artificial intelligence to aircraft flight control systems. 
+- **Erasmus+ MEng Research Project** – Universidad Politécnica de Madrid, Spain. 
+  *Application of artificial intelligence to aircraft flight control systems.*
 
 
 ---
