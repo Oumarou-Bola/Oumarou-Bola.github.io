@@ -8,8 +8,7 @@ date: 2024-03-01
 location: "Cape Town, South Africa"
 ---
 
-• Taught mathematics to Electrical Engineering students with a focus on problem-solving and conceptual understanding.
-
+• Taught mathematics to Electrical Engineering students with a focus on problem-solving and conceptual understanding.<br>
 • Prepared structured tutorial materials and written assignments tailored to student objectives.
 
 
