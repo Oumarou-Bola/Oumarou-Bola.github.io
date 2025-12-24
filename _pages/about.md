@@ -23,7 +23,7 @@ redirect_from:
 <!-- Profile photo -->
 <img src="/images/omb-profile-600-embedded.svg" alt="Oumarou Moussa Bola"
      class="profile-photo"
-     style="width: 600px; float: right; border-radius: 10px; margin: 0 0 15px 20px;">
+     style="width: 250px; float: right; border-radius: 10px; margin: 0 0 15px 20px;">
      
 Hi!, I am **Oumarou Moussa Bola**, a PhD candidate in **Aerospace Engineering** at the **Universidad Carlos III de Madrid (UC3M)**. My research focuses on **Aircraft Trajectory Optimization and Sustainable Aviation for Climate Impact Mitigation**, with the broader goal of helping the sector decarbonize while keeping operations efficient and safe.  
 
