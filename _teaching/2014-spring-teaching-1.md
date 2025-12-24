@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics Tutor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Cape Peninsula"
+date: 2024-03-01
+location: "Cape Town, South Africa"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• Taught mathematics to Electrical Engineering students with a focus on problem-solving and conceptual understanding.
+• Prepared structured tutorial materials and written assignments tailored to student objectives.
+
 
 Heading 1
 ======
