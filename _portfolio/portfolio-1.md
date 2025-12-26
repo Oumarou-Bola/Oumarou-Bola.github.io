@@ -1,5 +1,5 @@
 ---
-title: "Study of Aircraft Behavior Project"
+title: "Study of Aircraft Behavior Subjected to Complex Loads"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
