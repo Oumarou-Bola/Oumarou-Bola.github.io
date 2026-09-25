@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 
-title: "Researcher, mathematician & aerospace engineer"
+title: "PhD Researcher & Aerospace engineer"
 title_separator          : "-"
 name                     : &name "Oumarou"
 description: "Ph.D. researcher in aircraft trajectory optimization and sustainable aviation for climate impact mitigation."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   avatar           : "lim-pi-sq.jpeg"
   name             : "     Oumarou M. Bola   "
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician-Engineer, Lifelong Learner"
+  bio              : "Researcher-Engineer, Lifelong Learner"
   location         : "Madrid, Spain"
   employer         : "Universidad Carlos III of Madrid"
   uri              : # URL
